@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/bbaraban/banity.git"
   },
-  "keywords": [],
+  "keywords": ["banano", "nano", "generator", "address", "key", "seed"],
   "author": "",
   "license": "ISC",
   "bugs": {
