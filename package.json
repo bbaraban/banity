@@ -1,0 +1,31 @@
+{
+  "name": "banity",
+  "version": "1.0.0",
+  "description": "Banano CLI vanity address generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbaraban/banity.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bbaraban/banity/issues"
+  },
+  "homepage": "https://github.com/bbaraban/banity#readme",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "clear": "^0.1.0",
+    "clui": "^0.3.6",
+    "configstore": "^6.0.0",
+    "figlet": "^1.5.0",
+    "inquirer": "^8.1.0",
+    "lodash": "^4.17.21",
+    "minimist": "^1.2.5",
+    "nanocurrency": "1.7.4"
+  }
+}
